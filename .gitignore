@@ -1,0 +1,11 @@
+node_modules/
+vendor/
+.env
+.env.backup
+.env.production
+*.log
+.DS_Store
+.phpunit.result.cache
+.phpunit.cache/
+/connectin/frontend/dist/
+/connectin/frontend/.vite/
